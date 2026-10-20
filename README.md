@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Tech pros** · Team ID `VTU-QFF-HC-0124` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Tech pros)
+[⬆ Back to Top](#tech-pros)
 
 </div>
